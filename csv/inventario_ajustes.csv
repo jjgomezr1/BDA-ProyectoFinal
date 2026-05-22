@@ -1,121 +1,121 @@
 Año,Mes,TiendaID,NombreTienda,ProductoID,StockFisico,StockSistema,Ajuste,Motivo
-2024,1,2,Unicentro Bogotá,6,46,53,-7,Merma por daño en bodega
-2024,1,3,Chipichape Cali,141,116,128,-12,Ajuste por vencimiento
-2024,1,7,Viva Envigado,16,91,90,1,Devolución no registrada en sistema
-2024,1,10,Mayorista Itagüí,152,105,98,7,Conteo físico muestra exceso
-2024,2,1,Éxito Poblado,8,61,55,6,Transferencia recibida sin registrar
-2024,2,1,Éxito Poblado,213,64,65,-1,Ajuste por vencimiento
-2024,2,6,Bucaramanga Centro,204,147,136,11,Conteo físico muestra exceso
-2024,3,1,Éxito Poblado,41,145,145,0,Conteo cuadra con sistema
-2024,3,3,Chipichape Cali,140,41,32,9,Error de entrada manual
-2024,3,3,Chipichape Cali,199,117,123,-6,Pérdida en transporte interno
-2024,3,3,Chipichape Cali,122,198,198,0,Sin variación detectada
-2024,3,6,Bucaramanga Centro,100,37,46,-9,Diferencia por robo hormiga
-2024,3,8,Llanogrande Rionegro,170,49,55,-6,Merma por daño en bodega
-2024,3,8,Llanogrande Rionegro,165,142,143,-1,Producto deteriorado retirado
-2024,3,9,Plaza de las Américas,118,82,83,-1,Merma por daño en bodega
-2024,4,2,Unicentro Bogotá,4,115,120,-5,Producto deteriorado retirado
-2024,4,4,Buenavista Barranquilla,135,61,68,-7,Ajuste por vencimiento
-2024,4,5,Arboleda Pereira,83,158,154,4,Conteo físico muestra exceso
-2024,4,5,Arboleda Pereira,84,183,168,15,Devolución no registrada en sistema
-2024,4,6,Bucaramanga Centro,35,28,26,2,Conteo físico muestra exceso
-2024,4,8,Llanogrande Rionegro,171,113,123,-10,Diferencia por robo hormiga
-2024,4,9,Plaza de las Américas,155,115,118,-3,Pérdida en transporte interno
-2024,5,4,Buenavista Barranquilla,30,35,47,-12,Diferencia por robo hormiga
-2024,5,5,Arboleda Pereira,3,153,157,-4,Diferencia por robo hormiga
-2024,5,8,Llanogrande Rionegro,101,42,42,0,Auditoría confirma stock correcto
-2024,5,9,Plaza de las Américas,76,91,84,7,Conteo físico muestra exceso
-2024,5,10,Mayorista Itagüí,90,188,188,0,Auditoría confirma stock correcto
-2024,6,1,Éxito Poblado,230,146,135,11,Conteo físico muestra exceso
-2024,6,3,Chipichape Cali,156,190,184,6,Devolución no registrada en sistema
-2024,6,4,Buenavista Barranquilla,158,155,165,-10,Producto deteriorado retirado
-2024,6,7,Viva Envigado,149,33,31,2,Error de entrada manual
-2024,6,9,Plaza de las Américas,21,124,128,-4,Pérdida en transporte interno
-2024,6,10,Mayorista Itagüí,211,101,105,-4,Ajuste por vencimiento
-2024,7,1,Éxito Poblado,13,88,97,-9,Diferencia por robo hormiga
-2024,7,1,Éxito Poblado,145,14,17,-3,Producto deteriorado retirado
-2024,7,1,Éxito Poblado,92,91,91,0,Sin variación detectada
-2024,7,2,Unicentro Bogotá,189,27,14,13,Error de entrada manual
-2024,7,3,Chipichape Cali,237,63,63,0,Conteo cuadra con sistema
-2024,7,5,Arboleda Pereira,157,56,68,-12,Merma por daño en bodega
-2024,7,10,Mayorista Itagüí,149,27,14,13,Devolución no registrada en sistema
-2024,8,1,Éxito Poblado,179,120,116,4,Conteo físico muestra exceso
-2024,8,1,Éxito Poblado,242,13,16,-3,Pérdida en transporte interno
-2024,8,6,Bucaramanga Centro,104,21,20,1,Error de entrada manual
-2024,9,4,Buenavista Barranquilla,23,168,167,1,Ingreso duplicado corregido
-2024,9,6,Bucaramanga Centro,245,176,182,-6,Producto deteriorado retirado
-2024,9,7,Viva Envigado,52,16,24,-8,Diferencia por robo hormiga
-2024,9,7,Viva Envigado,240,134,124,10,Ingreso duplicado corregido
-2024,10,7,Viva Envigado,32,39,34,5,Ingreso duplicado corregido
-2024,10,7,Viva Envigado,6,86,86,0,Sin variación detectada
-2024,11,9,Plaza de las Américas,196,115,127,-12,Merma por daño en bodega
-2024,12,1,Éxito Poblado,13,157,154,3,Error de entrada manual
-2024,12,1,Éxito Poblado,156,77,66,11,Error de entrada manual
-2024,12,5,Arboleda Pereira,46,185,190,-5,Producto deteriorado retirado
-2024,12,6,Bucaramanga Centro,168,157,146,11,Conteo físico muestra exceso
-2024,12,8,Llanogrande Rionegro,153,55,55,0,Auditoría confirma stock correcto
-2024,12,10,Mayorista Itagüí,125,61,63,-2,Ajuste por vencimiento
-2025,1,1,Éxito Poblado,176,67,73,-6,Ajuste por vencimiento
-2025,1,4,Buenavista Barranquilla,62,189,175,14,Transferencia recibida sin registrar
-2025,1,5,Arboleda Pereira,47,155,158,-3,Merma por daño en bodega
-2025,1,6,Bucaramanga Centro,34,65,65,0,Auditoría confirma stock correcto
-2025,1,6,Bucaramanga Centro,208,165,170,-5,Producto deteriorado retirado
-2025,1,10,Mayorista Itagüí,214,29,22,7,Error de entrada manual
-2025,2,1,Éxito Poblado,112,37,39,-2,Diferencia por robo hormiga
-2025,2,2,Unicentro Bogotá,2,59,59,0,Sin variación detectada
-2025,2,6,Bucaramanga Centro,56,188,192,-4,Ajuste por vencimiento
-2025,2,6,Bucaramanga Centro,144,43,43,0,Conteo cuadra con sistema
-2025,3,5,Arboleda Pereira,71,169,178,-9,Producto deteriorado retirado
-2025,3,6,Bucaramanga Centro,241,186,187,-1,Producto deteriorado retirado
-2025,3,9,Plaza de las Américas,173,139,139,0,Auditoría confirma stock correcto
-2025,3,9,Plaza de las Américas,66,125,132,-7,Ajuste por vencimiento
-2025,4,1,Éxito Poblado,27,89,88,1,Conteo físico muestra exceso
-2025,4,2,Unicentro Bogotá,222,108,111,-3,Diferencia por robo hormiga
-2025,4,2,Unicentro Bogotá,152,73,81,-8,Diferencia por robo hormiga
-2025,4,3,Chipichape Cali,203,180,173,7,Ingreso duplicado corregido
-2025,4,3,Chipichape Cali,11,46,54,-8,Ajuste por vencimiento
-2025,4,5,Arboleda Pereira,31,104,102,2,Transferencia recibida sin registrar
-2025,4,6,Bucaramanga Centro,34,9,21,-12,Pérdida en transporte interno
-2025,4,7,Viva Envigado,185,160,166,-6,Ajuste por vencimiento
-2025,4,7,Viva Envigado,87,71,60,11,Devolución no registrada en sistema
-2025,4,9,Plaza de las Américas,79,129,124,5,Ingreso duplicado corregido
-2025,5,3,Chipichape Cali,49,85,94,-9,Producto deteriorado retirado
-2025,5,4,Buenavista Barranquilla,200,139,139,0,Sin variación detectada
-2025,5,6,Bucaramanga Centro,249,140,152,-12,Pérdida en transporte interno
-2025,6,3,Chipichape Cali,225,43,43,0,Auditoría confirma stock correcto
-2025,6,7,Viva Envigado,1,34,38,-4,Merma por daño en bodega
-2025,6,7,Viva Envigado,92,117,112,5,Devolución no registrada en sistema
-2025,6,9,Plaza de las Américas,61,162,164,-2,Diferencia por robo hormiga
-2025,7,2,Unicentro Bogotá,20,78,78,0,Conteo cuadra con sistema
-2025,7,3,Chipichape Cali,123,175,166,9,Ingreso duplicado corregido
-2025,7,3,Chipichape Cali,35,180,180,0,Sin variación detectada
-2025,7,4,Buenavista Barranquilla,154,58,55,3,Conteo físico muestra exceso
-2025,7,6,Bucaramanga Centro,130,15,20,-5,Ajuste por vencimiento
-2025,7,6,Bucaramanga Centro,152,60,70,-10,Diferencia por robo hormiga
-2025,7,7,Viva Envigado,107,101,104,-3,Merma por daño en bodega
-2025,7,9,Plaza de las Américas,245,198,193,5,Ingreso duplicado corregido
-2025,7,9,Plaza de las Américas,225,95,106,-11,Diferencia por robo hormiga
-2025,7,10,Mayorista Itagüí,41,71,82,-11,Pérdida en transporte interno
-2025,8,2,Unicentro Bogotá,226,117,122,-5,Merma por daño en bodega
-2025,8,9,Plaza de las Américas,136,159,170,-11,Pérdida en transporte interno
-2025,8,10,Mayorista Itagüí,217,181,189,-8,Pérdida en transporte interno
-2025,9,3,Chipichape Cali,187,133,142,-9,Diferencia por robo hormiga
-2025,9,9,Plaza de las Américas,98,98,105,-7,Diferencia por robo hormiga
-2025,9,9,Plaza de las Américas,33,89,77,12,Error de entrada manual
-2025,9,10,Mayorista Itagüí,40,131,129,2,Error de entrada manual
-2025,10,5,Arboleda Pereira,123,9,10,-1,Diferencia por robo hormiga
-2025,10,9,Plaza de las Américas,19,65,68,-3,Pérdida en transporte interno
-2025,11,1,Éxito Poblado,150,88,91,-3,Producto deteriorado retirado
-2025,11,2,Unicentro Bogotá,37,82,89,-7,Diferencia por robo hormiga
-2025,11,2,Unicentro Bogotá,201,58,70,-12,Pérdida en transporte interno
-2025,11,3,Chipichape Cali,131,123,123,0,Conteo cuadra con sistema
-2025,11,3,Chipichape Cali,20,154,146,8,Transferencia recibida sin registrar
-2025,11,6,Bucaramanga Centro,202,127,132,-5,Ajuste por vencimiento
-2025,12,1,Éxito Poblado,141,137,140,-3,Producto deteriorado retirado
-2025,12,2,Unicentro Bogotá,187,161,150,11,Devolución no registrada en sistema
-2025,12,3,Chipichape Cali,193,79,80,-1,Pérdida en transporte interno
-2025,12,3,Chipichape Cali,84,165,155,10,Conteo físico muestra exceso
-2025,12,6,Bucaramanga Centro,207,43,39,4,Conteo físico muestra exceso
-2025,12,7,Viva Envigado,136,183,185,-2,Pérdida en transporte interno
-2025,12,7,Viva Envigado,198,137,123,14,Ingreso duplicado corregido
-2025,12,7,Viva Envigado,108,137,141,-4,Producto deteriorado retirado
+2024,1,2,Tienda Bogotá Norte,6,46,53,-7,Merma por daño en bodega
+2024,1,3,Tienda Medellín Centro,141,116,128,-12,Ajuste por vencimiento
+2024,1,7,Tienda Bucaramanga,16,91,90,1,Devolución no registrada en sistema
+2024,1,10,Tienda Manizales,152,105,98,7,Conteo físico muestra exceso
+2024,2,1,Tienda Bogotá Centro,8,61,55,6,Transferencia recibida sin registrar
+2024,2,1,Tienda Bogotá Centro,213,64,65,-1,Ajuste por vencimiento
+2024,2,6,Tienda Barranquilla,204,147,136,11,Conteo físico muestra exceso
+2024,3,1,Tienda Bogotá Centro,41,145,145,0,Conteo cuadra con sistema
+2024,3,3,Tienda Medellín Centro,140,41,32,9,Error de entrada manual
+2024,3,3,Tienda Medellín Centro,199,117,123,-6,Pérdida en transporte interno
+2024,3,3,Tienda Medellín Centro,122,198,198,0,Sin variación detectada
+2024,3,6,Tienda Barranquilla,100,37,46,-9,Diferencia por robo hormiga
+2024,3,8,Tienda Cartagena,170,49,55,-6,Merma por daño en bodega
+2024,3,8,Tienda Cartagena,165,142,143,-1,Producto deteriorado retirado
+2024,3,9,Tienda Pereira,118,82,83,-1,Merma por daño en bodega
+2024,4,2,Tienda Bogotá Norte,4,115,120,-5,Producto deteriorado retirado
+2024,4,4,Tienda Medellín El Poblado,135,61,68,-7,Ajuste por vencimiento
+2024,4,5,Tienda Cali Norte,83,158,154,4,Conteo físico muestra exceso
+2024,4,5,Tienda Cali Norte,84,183,168,15,Devolución no registrada en sistema
+2024,4,6,Tienda Barranquilla,35,28,26,2,Conteo físico muestra exceso
+2024,4,8,Tienda Cartagena,171,113,123,-10,Diferencia por robo hormiga
+2024,4,9,Tienda Pereira,155,115,118,-3,Pérdida en transporte interno
+2024,5,4,Tienda Medellín El Poblado,30,35,47,-12,Diferencia por robo hormiga
+2024,5,5,Tienda Cali Norte,3,153,157,-4,Diferencia por robo hormiga
+2024,5,8,Tienda Cartagena,101,42,42,0,Auditoría confirma stock correcto
+2024,5,9,Tienda Pereira,76,91,84,7,Conteo físico muestra exceso
+2024,5,10,Tienda Manizales,90,188,188,0,Auditoría confirma stock correcto
+2024,6,1,Tienda Bogotá Centro,230,146,135,11,Conteo físico muestra exceso
+2024,6,3,Tienda Medellín Centro,156,190,184,6,Devolución no registrada en sistema
+2024,6,4,Tienda Medellín El Poblado,158,155,165,-10,Producto deteriorado retirado
+2024,6,7,Tienda Bucaramanga,149,33,31,2,Error de entrada manual
+2024,6,9,Tienda Pereira,21,124,128,-4,Pérdida en transporte interno
+2024,6,10,Tienda Manizales,211,101,105,-4,Ajuste por vencimiento
+2024,7,1,Tienda Bogotá Centro,13,88,97,-9,Diferencia por robo hormiga
+2024,7,1,Tienda Bogotá Centro,145,14,17,-3,Producto deteriorado retirado
+2024,7,1,Tienda Bogotá Centro,92,91,91,0,Sin variación detectada
+2024,7,2,Tienda Bogotá Norte,189,27,14,13,Error de entrada manual
+2024,7,3,Tienda Medellín Centro,237,63,63,0,Conteo cuadra con sistema
+2024,7,5,Tienda Cali Norte,157,56,68,-12,Merma por daño en bodega
+2024,7,10,Tienda Manizales,149,27,14,13,Devolución no registrada en sistema
+2024,8,1,Tienda Bogotá Centro,179,120,116,4,Conteo físico muestra exceso
+2024,8,1,Tienda Bogotá Centro,242,13,16,-3,Pérdida en transporte interno
+2024,8,6,Tienda Barranquilla,104,21,20,1,Error de entrada manual
+2024,9,4,Tienda Medellín El Poblado,23,168,167,1,Ingreso duplicado corregido
+2024,9,6,Tienda Barranquilla,245,176,182,-6,Producto deteriorado retirado
+2024,9,7,Tienda Bucaramanga,52,16,24,-8,Diferencia por robo hormiga
+2024,9,7,Tienda Bucaramanga,240,134,124,10,Ingreso duplicado corregido
+2024,10,7,Tienda Bucaramanga,32,39,34,5,Ingreso duplicado corregido
+2024,10,7,Tienda Bucaramanga,6,86,86,0,Sin variación detectada
+2024,11,9,Tienda Pereira,196,115,127,-12,Merma por daño en bodega
+2024,12,1,Tienda Bogotá Centro,13,157,154,3,Error de entrada manual
+2024,12,1,Tienda Bogotá Centro,156,77,66,11,Error de entrada manual
+2024,12,5,Tienda Cali Norte,46,185,190,-5,Producto deteriorado retirado
+2024,12,6,Tienda Barranquilla,168,157,146,11,Conteo físico muestra exceso
+2024,12,8,Tienda Cartagena,153,55,55,0,Auditoría confirma stock correcto
+2024,12,10,Tienda Manizales,125,61,63,-2,Ajuste por vencimiento
+2025,1,1,Tienda Bogotá Centro,176,67,73,-6,Ajuste por vencimiento
+2025,1,4,Tienda Medellín El Poblado,62,189,175,14,Transferencia recibida sin registrar
+2025,1,5,Tienda Cali Norte,47,155,158,-3,Merma por daño en bodega
+2025,1,6,Tienda Barranquilla,34,65,65,0,Auditoría confirma stock correcto
+2025,1,6,Tienda Barranquilla,208,165,170,-5,Producto deteriorado retirado
+2025,1,10,Tienda Manizales,214,29,22,7,Error de entrada manual
+2025,2,1,Tienda Bogotá Centro,112,37,39,-2,Diferencia por robo hormiga
+2025,2,2,Tienda Bogotá Norte,2,59,59,0,Sin variación detectada
+2025,2,6,Tienda Barranquilla,56,188,192,-4,Ajuste por vencimiento
+2025,2,6,Tienda Barranquilla,144,43,43,0,Conteo cuadra con sistema
+2025,3,5,Tienda Cali Norte,71,169,178,-9,Producto deteriorado retirado
+2025,3,6,Tienda Barranquilla,241,186,187,-1,Producto deteriorado retirado
+2025,3,9,Tienda Pereira,173,139,139,0,Auditoría confirma stock correcto
+2025,3,9,Tienda Pereira,66,125,132,-7,Ajuste por vencimiento
+2025,4,1,Tienda Bogotá Centro,27,89,88,1,Conteo físico muestra exceso
+2025,4,2,Tienda Bogotá Norte,222,108,111,-3,Diferencia por robo hormiga
+2025,4,2,Tienda Bogotá Norte,152,73,81,-8,Diferencia por robo hormiga
+2025,4,3,Tienda Medellín Centro,203,180,173,7,Ingreso duplicado corregido
+2025,4,3,Tienda Medellín Centro,11,46,54,-8,Ajuste por vencimiento
+2025,4,5,Tienda Cali Norte,31,104,102,2,Transferencia recibida sin registrar
+2025,4,6,Tienda Barranquilla,34,9,21,-12,Pérdida en transporte interno
+2025,4,7,Tienda Bucaramanga,185,160,166,-6,Ajuste por vencimiento
+2025,4,7,Tienda Bucaramanga,87,71,60,11,Devolución no registrada en sistema
+2025,4,9,Tienda Pereira,79,129,124,5,Ingreso duplicado corregido
+2025,5,3,Tienda Medellín Centro,49,85,94,-9,Producto deteriorado retirado
+2025,5,4,Tienda Medellín El Poblado,200,139,139,0,Sin variación detectada
+2025,5,6,Tienda Barranquilla,249,140,152,-12,Pérdida en transporte interno
+2025,6,3,Tienda Medellín Centro,225,43,43,0,Auditoría confirma stock correcto
+2025,6,7,Tienda Bucaramanga,1,34,38,-4,Merma por daño en bodega
+2025,6,7,Tienda Bucaramanga,92,117,112,5,Devolución no registrada en sistema
+2025,6,9,Tienda Pereira,61,162,164,-2,Diferencia por robo hormiga
+2025,7,2,Tienda Bogotá Norte,20,78,78,0,Conteo cuadra con sistema
+2025,7,3,Tienda Medellín Centro,123,175,166,9,Ingreso duplicado corregido
+2025,7,3,Tienda Medellín Centro,35,180,180,0,Sin variación detectada
+2025,7,4,Tienda Medellín El Poblado,154,58,55,3,Conteo físico muestra exceso
+2025,7,6,Tienda Barranquilla,130,15,20,-5,Ajuste por vencimiento
+2025,7,6,Tienda Barranquilla,152,60,70,-10,Diferencia por robo hormiga
+2025,7,7,Tienda Bucaramanga,107,101,104,-3,Merma por daño en bodega
+2025,7,9,Tienda Pereira,245,198,193,5,Ingreso duplicado corregido
+2025,7,9,Tienda Pereira,225,95,106,-11,Diferencia por robo hormiga
+2025,7,10,Tienda Manizales,41,71,82,-11,Pérdida en transporte interno
+2025,8,2,Tienda Bogotá Norte,226,117,122,-5,Merma por daño en bodega
+2025,8,9,Tienda Pereira,136,159,170,-11,Pérdida en transporte interno
+2025,8,10,Tienda Manizales,217,181,189,-8,Pérdida en transporte interno
+2025,9,3,Tienda Medellín Centro,187,133,142,-9,Diferencia por robo hormiga
+2025,9,9,Tienda Pereira,98,98,105,-7,Diferencia por robo hormiga
+2025,9,9,Tienda Pereira,33,89,77,12,Error de entrada manual
+2025,9,10,Tienda Manizales,40,131,129,2,Error de entrada manual
+2025,10,5,Tienda Cali Norte,123,9,10,-1,Diferencia por robo hormiga
+2025,10,9,Tienda Pereira,19,65,68,-3,Pérdida en transporte interno
+2025,11,1,Tienda Bogotá Centro,150,88,91,-3,Producto deteriorado retirado
+2025,11,2,Tienda Bogotá Norte,37,82,89,-7,Diferencia por robo hormiga
+2025,11,2,Tienda Bogotá Norte,201,58,70,-12,Pérdida en transporte interno
+2025,11,3,Tienda Medellín Centro,131,123,123,0,Conteo cuadra con sistema
+2025,11,3,Tienda Medellín Centro,20,154,146,8,Transferencia recibida sin registrar
+2025,11,6,Tienda Barranquilla,202,127,132,-5,Ajuste por vencimiento
+2025,12,1,Tienda Bogotá Centro,141,137,140,-3,Producto deteriorado retirado
+2025,12,2,Tienda Bogotá Norte,187,161,150,11,Devolución no registrada en sistema
+2025,12,3,Tienda Medellín Centro,193,79,80,-1,Pérdida en transporte interno
+2025,12,3,Tienda Medellín Centro,84,165,155,10,Conteo físico muestra exceso
+2025,12,6,Tienda Barranquilla,207,43,39,4,Conteo físico muestra exceso
+2025,12,7,Tienda Bucaramanga,136,183,185,-2,Pérdida en transporte interno
+2025,12,7,Tienda Bucaramanga,198,137,123,14,Ingreso duplicado corregido
+2025,12,7,Tienda Bucaramanga,108,137,141,-4,Producto deteriorado retirado

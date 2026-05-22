@@ -1,0 +1,961 @@
+Año,Mes,TiendaID,NombreTienda,CategoriaID,NombreCategoria,ValorMeta
+2024,1,1,Éxito Poblado,1,Tecnología,43000000
+2024,1,1,Éxito Poblado,12,Electrodomésticos,34500000
+2024,1,1,Éxito Poblado,2,Hogar y Cocina,27000000
+2024,1,1,Éxito Poblado,8,Salud y Belleza,20500000
+2024,1,2,Unicentro Bogotá,1,Tecnología,41500000
+2024,1,2,Unicentro Bogotá,2,Hogar y Cocina,41500000
+2024,1,2,Unicentro Bogotá,12,Electrodomésticos,33000000
+2024,1,2,Unicentro Bogotá,3,Moda y Calzado,24000000
+2024,1,3,Chipichape Cali,3,Moda y Calzado,39000000
+2024,1,3,Chipichape Cali,8,Salud y Belleza,30000000
+2024,1,3,Chipichape Cali,5,Juguetería,23000000
+2024,1,3,Chipichape Cali,6,Libros y Papelería,17500000
+2024,1,4,Buenavista Barranquilla,4,Deportes y Fitness,33500000
+2024,1,4,Buenavista Barranquilla,3,Moda y Calzado,25500000
+2024,1,4,Buenavista Barranquilla,9,Mascotas,19500000
+2024,1,4,Buenavista Barranquilla,5,Juguetería,16000000
+2024,1,5,Arboleda Pereira,5,Juguetería,30500000
+2024,1,5,Arboleda Pereira,6,Libros y Papelería,22000000
+2024,1,5,Arboleda Pereira,3,Moda y Calzado,19500000
+2024,1,5,Arboleda Pereira,8,Salud y Belleza,15000000
+2024,1,6,Bucaramanga Centro,6,Libros y Papelería,30500000
+2024,1,6,Bucaramanga Centro,8,Salud y Belleza,22500000
+2024,1,6,Bucaramanga Centro,2,Hogar y Cocina,17500000
+2024,1,6,Bucaramanga Centro,9,Mascotas,14500000
+2024,1,7,Viva Envigado,7,Automotriz,35000000
+2024,1,7,Viva Envigado,11,Herramientas,28000000
+2024,1,7,Viva Envigado,4,Deportes y Fitness,19500000
+2024,1,7,Viva Envigado,2,Hogar y Cocina,16000000
+2024,1,8,Llanogrande Rionegro,8,Salud y Belleza,29000000
+2024,1,8,Llanogrande Rionegro,3,Moda y Calzado,22500000
+2024,1,8,Llanogrande Rionegro,6,Libros y Papelería,16000000
+2024,1,8,Llanogrande Rionegro,9,Mascotas,13000000
+2024,1,9,Plaza de las Américas,9,Mascotas,33000000
+2024,1,9,Plaza de las Américas,5,Juguetería,26000000
+2024,1,9,Plaza de las Américas,8,Salud y Belleza,21000000
+2024,1,9,Plaza de las Américas,10,Alimentos y Bebidas,18000000
+2024,1,10,Mayorista Itagüí,10,Alimentos y Bebidas,51000000
+2024,1,10,Mayorista Itagüí,2,Hogar y Cocina,42500000
+2024,1,10,Mayorista Itagüí,7,Automotriz,33000000
+2024,1,10,Mayorista Itagüí,11,Herramientas,27500000
+2024,2,1,Éxito Poblado,1,Tecnología,42500000
+2024,2,1,Éxito Poblado,12,Electrodomésticos,34000000
+2024,2,1,Éxito Poblado,2,Hogar y Cocina,26500000
+2024,2,1,Éxito Poblado,8,Salud y Belleza,20500000
+2024,2,2,Unicentro Bogotá,1,Tecnología,38000000
+2024,2,2,Unicentro Bogotá,2,Hogar y Cocina,38500000
+2024,2,2,Unicentro Bogotá,12,Electrodomésticos,29500000
+2024,2,2,Unicentro Bogotá,3,Moda y Calzado,23500000
+2024,2,3,Chipichape Cali,3,Moda y Calzado,39000000
+2024,2,3,Chipichape Cali,8,Salud y Belleza,30500000
+2024,2,3,Chipichape Cali,5,Juguetería,22500000
+2024,2,3,Chipichape Cali,6,Libros y Papelería,17000000
+2024,2,4,Buenavista Barranquilla,4,Deportes y Fitness,33500000
+2024,2,4,Buenavista Barranquilla,3,Moda y Calzado,27000000
+2024,2,4,Buenavista Barranquilla,9,Mascotas,19000000
+2024,2,4,Buenavista Barranquilla,5,Juguetería,15500000
+2024,2,5,Arboleda Pereira,5,Juguetería,29500000
+2024,2,5,Arboleda Pereira,6,Libros y Papelería,22000000
+2024,2,5,Arboleda Pereira,3,Moda y Calzado,17500000
+2024,2,5,Arboleda Pereira,8,Salud y Belleza,15000000
+2024,2,6,Bucaramanga Centro,6,Libros y Papelería,30000000
+2024,2,6,Bucaramanga Centro,8,Salud y Belleza,22000000
+2024,2,6,Bucaramanga Centro,2,Hogar y Cocina,17500000
+2024,2,6,Bucaramanga Centro,9,Mascotas,14500000
+2024,2,7,Viva Envigado,7,Automotriz,34000000
+2024,2,7,Viva Envigado,11,Herramientas,28500000
+2024,2,7,Viva Envigado,4,Deportes y Fitness,19000000
+2024,2,7,Viva Envigado,2,Hogar y Cocina,15500000
+2024,2,8,Llanogrande Rionegro,8,Salud y Belleza,26500000
+2024,2,8,Llanogrande Rionegro,3,Moda y Calzado,21500000
+2024,2,8,Llanogrande Rionegro,6,Libros y Papelería,14500000
+2024,2,8,Llanogrande Rionegro,9,Mascotas,13000000
+2024,2,9,Plaza de las Américas,9,Mascotas,33000000
+2024,2,9,Plaza de las Américas,5,Juguetería,23500000
+2024,2,9,Plaza de las Américas,8,Salud y Belleza,21000000
+2024,2,9,Plaza de las Américas,10,Alimentos y Bebidas,17500000
+2024,2,10,Mayorista Itagüí,10,Alimentos y Bebidas,50000000
+2024,2,10,Mayorista Itagüí,2,Hogar y Cocina,40500000
+2024,2,10,Mayorista Itagüí,7,Automotriz,30500000
+2024,2,10,Mayorista Itagüí,11,Herramientas,25500000
+2024,3,1,Éxito Poblado,1,Tecnología,47000000
+2024,3,1,Éxito Poblado,12,Electrodomésticos,39000000
+2024,3,1,Éxito Poblado,2,Hogar y Cocina,30500000
+2024,3,1,Éxito Poblado,8,Salud y Belleza,24500000
+2024,3,2,Unicentro Bogotá,1,Tecnología,44000000
+2024,3,2,Unicentro Bogotá,2,Hogar y Cocina,43500000
+2024,3,2,Unicentro Bogotá,12,Electrodomésticos,36500000
+2024,3,2,Unicentro Bogotá,3,Moda y Calzado,27500000
+2024,3,3,Chipichape Cali,3,Moda y Calzado,41500000
+2024,3,3,Chipichape Cali,8,Salud y Belleza,33000000
+2024,3,3,Chipichape Cali,5,Juguetería,25000000
+2024,3,3,Chipichape Cali,6,Libros y Papelería,19500000
+2024,3,4,Buenavista Barranquilla,4,Deportes y Fitness,40000000
+2024,3,4,Buenavista Barranquilla,3,Moda y Calzado,29000000
+2024,3,4,Buenavista Barranquilla,9,Mascotas,20500000
+2024,3,4,Buenavista Barranquilla,5,Juguetería,17000000
+2024,3,5,Arboleda Pereira,5,Juguetería,36000000
+2024,3,5,Arboleda Pereira,6,Libros y Papelería,24000000
+2024,3,5,Arboleda Pereira,3,Moda y Calzado,21500000
+2024,3,5,Arboleda Pereira,8,Salud y Belleza,17500000
+2024,3,6,Bucaramanga Centro,6,Libros y Papelería,31000000
+2024,3,6,Bucaramanga Centro,8,Salud y Belleza,25000000
+2024,3,6,Bucaramanga Centro,2,Hogar y Cocina,20000000
+2024,3,6,Bucaramanga Centro,9,Mascotas,16500000
+2024,3,7,Viva Envigado,7,Automotriz,36000000
+2024,3,7,Viva Envigado,11,Herramientas,32000000
+2024,3,7,Viva Envigado,4,Deportes y Fitness,21500000
+2024,3,7,Viva Envigado,2,Hogar y Cocina,18500000
+2024,3,8,Llanogrande Rionegro,8,Salud y Belleza,30500000
+2024,3,8,Llanogrande Rionegro,3,Moda y Calzado,25500000
+2024,3,8,Llanogrande Rionegro,6,Libros y Papelería,17500000
+2024,3,8,Llanogrande Rionegro,9,Mascotas,13500000
+2024,3,9,Plaza de las Américas,9,Mascotas,36000000
+2024,3,9,Plaza de las Américas,5,Juguetería,26000000
+2024,3,9,Plaza de las Américas,8,Salud y Belleza,24500000
+2024,3,9,Plaza de las Américas,10,Alimentos y Bebidas,20500000
+2024,3,10,Mayorista Itagüí,10,Alimentos y Bebidas,53000000
+2024,3,10,Mayorista Itagüí,2,Hogar y Cocina,46500000
+2024,3,10,Mayorista Itagüí,7,Automotriz,35500000
+2024,3,10,Mayorista Itagüí,11,Herramientas,28500000
+2024,4,1,Éxito Poblado,1,Tecnología,47000000
+2024,4,1,Éxito Poblado,12,Electrodomésticos,39000000
+2024,4,1,Éxito Poblado,2,Hogar y Cocina,30500000
+2024,4,1,Éxito Poblado,8,Salud y Belleza,23000000
+2024,4,2,Unicentro Bogotá,1,Tecnología,41500000
+2024,4,2,Unicentro Bogotá,2,Hogar y Cocina,43000000
+2024,4,2,Unicentro Bogotá,12,Electrodomésticos,32500000
+2024,4,2,Unicentro Bogotá,3,Moda y Calzado,28000000
+2024,4,3,Chipichape Cali,3,Moda y Calzado,44000000
+2024,4,3,Chipichape Cali,8,Salud y Belleza,35000000
+2024,4,3,Chipichape Cali,5,Juguetería,25000000
+2024,4,3,Chipichape Cali,6,Libros y Papelería,18000000
+2024,4,4,Buenavista Barranquilla,4,Deportes y Fitness,39500000
+2024,4,4,Buenavista Barranquilla,3,Moda y Calzado,29500000
+2024,4,4,Buenavista Barranquilla,9,Mascotas,20000000
+2024,4,4,Buenavista Barranquilla,5,Juguetería,17000000
+2024,4,5,Arboleda Pereira,5,Juguetería,32000000
+2024,4,5,Arboleda Pereira,6,Libros y Papelería,24000000
+2024,4,5,Arboleda Pereira,3,Moda y Calzado,20500000
+2024,4,5,Arboleda Pereira,8,Salud y Belleza,16000000
+2024,4,6,Bucaramanga Centro,6,Libros y Papelería,31500000
+2024,4,6,Bucaramanga Centro,8,Salud y Belleza,24000000
+2024,4,6,Bucaramanga Centro,2,Hogar y Cocina,18500000
+2024,4,6,Bucaramanga Centro,9,Mascotas,16500000
+2024,4,7,Viva Envigado,7,Automotriz,36000000
+2024,4,7,Viva Envigado,11,Herramientas,30000000
+2024,4,7,Viva Envigado,4,Deportes y Fitness,21500000
+2024,4,7,Viva Envigado,2,Hogar y Cocina,18500000
+2024,4,8,Llanogrande Rionegro,8,Salud y Belleza,29000000
+2024,4,8,Llanogrande Rionegro,3,Moda y Calzado,23500000
+2024,4,8,Llanogrande Rionegro,6,Libros y Papelería,17500000
+2024,4,8,Llanogrande Rionegro,9,Mascotas,13500000
+2024,4,9,Plaza de las Américas,9,Mascotas,35000000
+2024,4,9,Plaza de las Américas,5,Juguetería,26500000
+2024,4,9,Plaza de las Américas,8,Salud y Belleza,22000000
+2024,4,9,Plaza de las Américas,10,Alimentos y Bebidas,19000000
+2024,4,10,Mayorista Itagüí,10,Alimentos y Bebidas,52000000
+2024,4,10,Mayorista Itagüí,2,Hogar y Cocina,45500000
+2024,4,10,Mayorista Itagüí,7,Automotriz,33500000
+2024,4,10,Mayorista Itagüí,11,Herramientas,28000000
+2024,5,1,Éxito Poblado,1,Tecnología,46500000
+2024,5,1,Éxito Poblado,12,Electrodomésticos,41500000
+2024,5,1,Éxito Poblado,2,Hogar y Cocina,30500000
+2024,5,1,Éxito Poblado,8,Salud y Belleza,25000000
+2024,5,2,Unicentro Bogotá,1,Tecnología,47500000
+2024,5,2,Unicentro Bogotá,2,Hogar y Cocina,44000000
+2024,5,2,Unicentro Bogotá,12,Electrodomésticos,35000000
+2024,5,2,Unicentro Bogotá,3,Moda y Calzado,28500000
+2024,5,3,Chipichape Cali,3,Moda y Calzado,43500000
+2024,5,3,Chipichape Cali,8,Salud y Belleza,34500000
+2024,5,3,Chipichape Cali,5,Juguetería,28000000
+2024,5,3,Chipichape Cali,6,Libros y Papelería,20000000
+2024,5,4,Buenavista Barranquilla,4,Deportes y Fitness,40000000
+2024,5,4,Buenavista Barranquilla,3,Moda y Calzado,31000000
+2024,5,4,Buenavista Barranquilla,9,Mascotas,22500000
+2024,5,4,Buenavista Barranquilla,5,Juguetería,17500000
+2024,5,5,Arboleda Pereira,5,Juguetería,34000000
+2024,5,5,Arboleda Pereira,6,Libros y Papelería,24500000
+2024,5,5,Arboleda Pereira,3,Moda y Calzado,21000000
+2024,5,5,Arboleda Pereira,8,Salud y Belleza,17500000
+2024,5,6,Bucaramanga Centro,6,Libros y Papelería,34000000
+2024,5,6,Bucaramanga Centro,8,Salud y Belleza,25500000
+2024,5,6,Bucaramanga Centro,2,Hogar y Cocina,21000000
+2024,5,6,Bucaramanga Centro,9,Mascotas,16000000
+2024,5,7,Viva Envigado,7,Automotriz,38000000
+2024,5,7,Viva Envigado,11,Herramientas,32000000
+2024,5,7,Viva Envigado,4,Deportes y Fitness,23500000
+2024,5,7,Viva Envigado,2,Hogar y Cocina,18500000
+2024,5,8,Llanogrande Rionegro,8,Salud y Belleza,30500000
+2024,5,8,Llanogrande Rionegro,3,Moda y Calzado,25000000
+2024,5,8,Llanogrande Rionegro,6,Libros y Papelería,17500000
+2024,5,8,Llanogrande Rionegro,9,Mascotas,14000000
+2024,5,9,Plaza de las Américas,9,Mascotas,36500000
+2024,5,9,Plaza de las Américas,5,Juguetería,29000000
+2024,5,9,Plaza de las Américas,8,Salud y Belleza,24000000
+2024,5,9,Plaza de las Américas,10,Alimentos y Bebidas,21000000
+2024,5,10,Mayorista Itagüí,10,Alimentos y Bebidas,56000000
+2024,5,10,Mayorista Itagüí,2,Hogar y Cocina,45500000
+2024,5,10,Mayorista Itagüí,7,Automotriz,38000000
+2024,5,10,Mayorista Itagüí,11,Herramientas,31500000
+2024,6,1,Éxito Poblado,1,Tecnología,51500000
+2024,6,1,Éxito Poblado,12,Electrodomésticos,44000000
+2024,6,1,Éxito Poblado,2,Hogar y Cocina,33000000
+2024,6,1,Éxito Poblado,8,Salud y Belleza,24000000
+2024,6,2,Unicentro Bogotá,1,Tecnología,47000000
+2024,6,2,Unicentro Bogotá,2,Hogar y Cocina,45500000
+2024,6,2,Unicentro Bogotá,12,Electrodomésticos,36000000
+2024,6,2,Unicentro Bogotá,3,Moda y Calzado,27500000
+2024,6,3,Chipichape Cali,3,Moda y Calzado,45000000
+2024,6,3,Chipichape Cali,8,Salud y Belleza,38500000
+2024,6,3,Chipichape Cali,5,Juguetería,26500000
+2024,6,3,Chipichape Cali,6,Libros y Papelería,21000000
+2024,6,4,Buenavista Barranquilla,4,Deportes y Fitness,40500000
+2024,6,4,Buenavista Barranquilla,3,Moda y Calzado,30500000
+2024,6,4,Buenavista Barranquilla,9,Mascotas,23500000
+2024,6,4,Buenavista Barranquilla,5,Juguetería,19500000
+2024,6,5,Arboleda Pereira,5,Juguetería,36500000
+2024,6,5,Arboleda Pereira,6,Libros y Papelería,26000000
+2024,6,5,Arboleda Pereira,3,Moda y Calzado,21000000
+2024,6,5,Arboleda Pereira,8,Salud y Belleza,17500000
+2024,6,6,Bucaramanga Centro,6,Libros y Papelería,36000000
+2024,6,6,Bucaramanga Centro,8,Salud y Belleza,26000000
+2024,6,6,Bucaramanga Centro,2,Hogar y Cocina,20500000
+2024,6,6,Bucaramanga Centro,9,Mascotas,17500000
+2024,6,7,Viva Envigado,7,Automotriz,37000000
+2024,6,7,Viva Envigado,11,Herramientas,33500000
+2024,6,7,Viva Envigado,4,Deportes y Fitness,23500000
+2024,6,7,Viva Envigado,2,Hogar y Cocina,20000000
+2024,6,8,Llanogrande Rionegro,8,Salud y Belleza,31000000
+2024,6,8,Llanogrande Rionegro,3,Moda y Calzado,27000000
+2024,6,8,Llanogrande Rionegro,6,Libros y Papelería,17000000
+2024,6,8,Llanogrande Rionegro,9,Mascotas,14000000
+2024,6,9,Plaza de las Américas,9,Mascotas,38500000
+2024,6,9,Plaza de las Américas,5,Juguetería,29000000
+2024,6,9,Plaza de las Américas,8,Salud y Belleza,24000000
+2024,6,9,Plaza de las Américas,10,Alimentos y Bebidas,20000000
+2024,6,10,Mayorista Itagüí,10,Alimentos y Bebidas,59000000
+2024,6,10,Mayorista Itagüí,2,Hogar y Cocina,47000000
+2024,6,10,Mayorista Itagüí,7,Automotriz,37500000
+2024,6,10,Mayorista Itagüí,11,Herramientas,31500000
+2024,7,1,Éxito Poblado,1,Tecnología,50000000
+2024,7,1,Éxito Poblado,12,Electrodomésticos,43000000
+2024,7,1,Éxito Poblado,2,Hogar y Cocina,33000000
+2024,7,1,Éxito Poblado,8,Salud y Belleza,26500000
+2024,7,2,Unicentro Bogotá,1,Tecnología,46500000
+2024,7,2,Unicentro Bogotá,2,Hogar y Cocina,49000000
+2024,7,2,Unicentro Bogotá,12,Electrodomésticos,36500000
+2024,7,2,Unicentro Bogotá,3,Moda y Calzado,29000000
+2024,7,3,Chipichape Cali,3,Moda y Calzado,47500000
+2024,7,3,Chipichape Cali,8,Salud y Belleza,36500000
+2024,7,3,Chipichape Cali,5,Juguetería,27500000
+2024,7,3,Chipichape Cali,6,Libros y Papelería,21500000
+2024,7,4,Buenavista Barranquilla,4,Deportes y Fitness,40000000
+2024,7,4,Buenavista Barranquilla,3,Moda y Calzado,31000000
+2024,7,4,Buenavista Barranquilla,9,Mascotas,24000000
+2024,7,4,Buenavista Barranquilla,5,Juguetería,19500000
+2024,7,5,Arboleda Pereira,5,Juguetería,35500000
+2024,7,5,Arboleda Pereira,6,Libros y Papelería,25000000
+2024,7,5,Arboleda Pereira,3,Moda y Calzado,21500000
+2024,7,5,Arboleda Pereira,8,Salud y Belleza,19000000
+2024,7,6,Bucaramanga Centro,6,Libros y Papelería,36000000
+2024,7,6,Bucaramanga Centro,8,Salud y Belleza,27000000
+2024,7,6,Bucaramanga Centro,2,Hogar y Cocina,20500000
+2024,7,6,Bucaramanga Centro,9,Mascotas,17000000
+2024,7,7,Viva Envigado,7,Automotriz,41000000
+2024,7,7,Viva Envigado,11,Herramientas,34500000
+2024,7,7,Viva Envigado,4,Deportes y Fitness,24000000
+2024,7,7,Viva Envigado,2,Hogar y Cocina,21000000
+2024,7,8,Llanogrande Rionegro,8,Salud y Belleza,33500000
+2024,7,8,Llanogrande Rionegro,3,Moda y Calzado,25000000
+2024,7,8,Llanogrande Rionegro,6,Libros y Papelería,18500000
+2024,7,8,Llanogrande Rionegro,9,Mascotas,14500000
+2024,7,9,Plaza de las Américas,9,Mascotas,39500000
+2024,7,9,Plaza de las Américas,5,Juguetería,30500000
+2024,7,9,Plaza de las Américas,8,Salud y Belleza,24500000
+2024,7,9,Plaza de las Américas,10,Alimentos y Bebidas,20500000
+2024,7,10,Mayorista Itagüí,10,Alimentos y Bebidas,56000000
+2024,7,10,Mayorista Itagüí,2,Hogar y Cocina,49500000
+2024,7,10,Mayorista Itagüí,7,Automotriz,37000000
+2024,7,10,Mayorista Itagüí,11,Herramientas,32500000
+2024,8,1,Éxito Poblado,1,Tecnología,51000000
+2024,8,1,Éxito Poblado,12,Electrodomésticos,41000000
+2024,8,1,Éxito Poblado,2,Hogar y Cocina,33000000
+2024,8,1,Éxito Poblado,8,Salud y Belleza,24500000
+2024,8,2,Unicentro Bogotá,1,Tecnología,47500000
+2024,8,2,Unicentro Bogotá,2,Hogar y Cocina,49500000
+2024,8,2,Unicentro Bogotá,12,Electrodomésticos,38000000
+2024,8,2,Unicentro Bogotá,3,Moda y Calzado,28000000
+2024,8,3,Chipichape Cali,3,Moda y Calzado,45500000
+2024,8,3,Chipichape Cali,8,Salud y Belleza,36000000
+2024,8,3,Chipichape Cali,5,Juguetería,26500000
+2024,8,3,Chipichape Cali,6,Libros y Papelería,21500000
+2024,8,4,Buenavista Barranquilla,4,Deportes y Fitness,42000000
+2024,8,4,Buenavista Barranquilla,3,Moda y Calzado,30000000
+2024,8,4,Buenavista Barranquilla,9,Mascotas,23500000
+2024,8,4,Buenavista Barranquilla,5,Juguetería,18500000
+2024,8,5,Arboleda Pereira,5,Juguetería,36000000
+2024,8,5,Arboleda Pereira,6,Libros y Papelería,24500000
+2024,8,5,Arboleda Pereira,3,Moda y Calzado,21000000
+2024,8,5,Arboleda Pereira,8,Salud y Belleza,19000000
+2024,8,6,Bucaramanga Centro,6,Libros y Papelería,36000000
+2024,8,6,Bucaramanga Centro,8,Salud y Belleza,26000000
+2024,8,6,Bucaramanga Centro,2,Hogar y Cocina,21500000
+2024,8,6,Bucaramanga Centro,9,Mascotas,17500000
+2024,8,7,Viva Envigado,7,Automotriz,38000000
+2024,8,7,Viva Envigado,11,Herramientas,32000000
+2024,8,7,Viva Envigado,4,Deportes y Fitness,23000000
+2024,8,7,Viva Envigado,2,Hogar y Cocina,20500000
+2024,8,8,Llanogrande Rionegro,8,Salud y Belleza,33500000
+2024,8,8,Llanogrande Rionegro,3,Moda y Calzado,27000000
+2024,8,8,Llanogrande Rionegro,6,Libros y Papelería,18500000
+2024,8,8,Llanogrande Rionegro,9,Mascotas,14500000
+2024,8,9,Plaza de las Américas,9,Mascotas,37500000
+2024,8,9,Plaza de las Américas,5,Juguetería,27500000
+2024,8,9,Plaza de las Américas,8,Salud y Belleza,25500000
+2024,8,9,Plaza de las Américas,10,Alimentos y Bebidas,22000000
+2024,8,10,Mayorista Itagüí,10,Alimentos y Bebidas,57000000
+2024,8,10,Mayorista Itagüí,2,Hogar y Cocina,49500000
+2024,8,10,Mayorista Itagüí,7,Automotriz,36000000
+2024,8,10,Mayorista Itagüí,11,Herramientas,33000000
+2024,9,1,Éxito Poblado,1,Tecnología,53000000
+2024,9,1,Éxito Poblado,12,Electrodomésticos,45500000
+2024,9,1,Éxito Poblado,2,Hogar y Cocina,34000000
+2024,9,1,Éxito Poblado,8,Salud y Belleza,26500000
+2024,9,2,Unicentro Bogotá,1,Tecnología,46000000
+2024,9,2,Unicentro Bogotá,2,Hogar y Cocina,49500000
+2024,9,2,Unicentro Bogotá,12,Electrodomésticos,37000000
+2024,9,2,Unicentro Bogotá,3,Moda y Calzado,31000000
+2024,9,3,Chipichape Cali,3,Moda y Calzado,48500000
+2024,9,3,Chipichape Cali,8,Salud y Belleza,39000000
+2024,9,3,Chipichape Cali,5,Juguetería,29000000
+2024,9,3,Chipichape Cali,6,Libros y Papelería,20500000
+2024,9,4,Buenavista Barranquilla,4,Deportes y Fitness,43500000
+2024,9,4,Buenavista Barranquilla,3,Moda y Calzado,30500000
+2024,9,4,Buenavista Barranquilla,9,Mascotas,24000000
+2024,9,4,Buenavista Barranquilla,5,Juguetería,19500000
+2024,9,5,Arboleda Pereira,5,Juguetería,36000000
+2024,9,5,Arboleda Pereira,6,Libros y Papelería,27000000
+2024,9,5,Arboleda Pereira,3,Moda y Calzado,22500000
+2024,9,5,Arboleda Pereira,8,Salud y Belleza,18500000
+2024,9,6,Bucaramanga Centro,6,Libros y Papelería,36500000
+2024,9,6,Bucaramanga Centro,8,Salud y Belleza,25500000
+2024,9,6,Bucaramanga Centro,2,Hogar y Cocina,20000000
+2024,9,6,Bucaramanga Centro,9,Mascotas,17000000
+2024,9,7,Viva Envigado,7,Automotriz,39500000
+2024,9,7,Viva Envigado,11,Herramientas,35500000
+2024,9,7,Viva Envigado,4,Deportes y Fitness,25000000
+2024,9,7,Viva Envigado,2,Hogar y Cocina,19500000
+2024,9,8,Llanogrande Rionegro,8,Salud y Belleza,34000000
+2024,9,8,Llanogrande Rionegro,3,Moda y Calzado,26500000
+2024,9,8,Llanogrande Rionegro,6,Libros y Papelería,19000000
+2024,9,8,Llanogrande Rionegro,9,Mascotas,15000000
+2024,9,9,Plaza de las Américas,9,Mascotas,41000000
+2024,9,9,Plaza de las Américas,5,Juguetería,28500000
+2024,9,9,Plaza de las Américas,8,Salud y Belleza,26500000
+2024,9,9,Plaza de las Américas,10,Alimentos y Bebidas,21000000
+2024,9,10,Mayorista Itagüí,10,Alimentos y Bebidas,61500000
+2024,9,10,Mayorista Itagüí,2,Hogar y Cocina,49000000
+2024,9,10,Mayorista Itagüí,7,Automotriz,36500000
+2024,9,10,Mayorista Itagüí,11,Herramientas,32000000
+2024,10,1,Éxito Poblado,1,Tecnología,54500000
+2024,10,1,Éxito Poblado,12,Electrodomésticos,44000000
+2024,10,1,Éxito Poblado,2,Hogar y Cocina,35000000
+2024,10,1,Éxito Poblado,8,Salud y Belleza,26500000
+2024,10,2,Unicentro Bogotá,1,Tecnología,50000000
+2024,10,2,Unicentro Bogotá,2,Hogar y Cocina,51000000
+2024,10,2,Unicentro Bogotá,12,Electrodomésticos,38500000
+2024,10,2,Unicentro Bogotá,3,Moda y Calzado,31500000
+2024,10,3,Chipichape Cali,3,Moda y Calzado,46500000
+2024,10,3,Chipichape Cali,8,Salud y Belleza,41000000
+2024,10,3,Chipichape Cali,5,Juguetería,29500000
+2024,10,3,Chipichape Cali,6,Libros y Papelería,22500000
+2024,10,4,Buenavista Barranquilla,4,Deportes y Fitness,45000000
+2024,10,4,Buenavista Barranquilla,3,Moda y Calzado,33500000
+2024,10,4,Buenavista Barranquilla,9,Mascotas,24000000
+2024,10,4,Buenavista Barranquilla,5,Juguetería,19000000
+2024,10,5,Arboleda Pereira,5,Juguetería,39500000
+2024,10,5,Arboleda Pereira,6,Libros y Papelería,26500000
+2024,10,5,Arboleda Pereira,3,Moda y Calzado,23000000
+2024,10,5,Arboleda Pereira,8,Salud y Belleza,20000000
+2024,10,6,Bucaramanga Centro,6,Libros y Papelería,37500000
+2024,10,6,Bucaramanga Centro,8,Salud y Belleza,27000000
+2024,10,6,Bucaramanga Centro,2,Hogar y Cocina,21500000
+2024,10,6,Bucaramanga Centro,9,Mascotas,18000000
+2024,10,7,Viva Envigado,7,Automotriz,41500000
+2024,10,7,Viva Envigado,11,Herramientas,35000000
+2024,10,7,Viva Envigado,4,Deportes y Fitness,24000000
+2024,10,7,Viva Envigado,2,Hogar y Cocina,20500000
+2024,10,8,Llanogrande Rionegro,8,Salud y Belleza,36000000
+2024,10,8,Llanogrande Rionegro,3,Moda y Calzado,28000000
+2024,10,8,Llanogrande Rionegro,6,Libros y Papelería,20000000
+2024,10,8,Llanogrande Rionegro,9,Mascotas,16000000
+2024,10,9,Plaza de las Américas,9,Mascotas,40000000
+2024,10,9,Plaza de las Américas,5,Juguetería,30500000
+2024,10,9,Plaza de las Américas,8,Salud y Belleza,25000000
+2024,10,9,Plaza de las Américas,10,Alimentos y Bebidas,22000000
+2024,10,10,Mayorista Itagüí,10,Alimentos y Bebidas,61000000
+2024,10,10,Mayorista Itagüí,2,Hogar y Cocina,52500000
+2024,10,10,Mayorista Itagüí,7,Automotriz,40500000
+2024,10,10,Mayorista Itagüí,11,Herramientas,33500000
+2024,11,1,Éxito Poblado,1,Tecnología,59500000
+2024,11,1,Éxito Poblado,12,Electrodomésticos,49500000
+2024,11,1,Éxito Poblado,2,Hogar y Cocina,39000000
+2024,11,1,Éxito Poblado,8,Salud y Belleza,31000000
+2024,11,2,Unicentro Bogotá,1,Tecnología,58500000
+2024,11,2,Unicentro Bogotá,2,Hogar y Cocina,55000000
+2024,11,2,Unicentro Bogotá,12,Electrodomésticos,42500000
+2024,11,2,Unicentro Bogotá,3,Moda y Calzado,35000000
+2024,11,3,Chipichape Cali,3,Moda y Calzado,56000000
+2024,11,3,Chipichape Cali,8,Salud y Belleza,43500000
+2024,11,3,Chipichape Cali,5,Juguetería,34000000
+2024,11,3,Chipichape Cali,6,Libros y Papelería,25500000
+2024,11,4,Buenavista Barranquilla,4,Deportes y Fitness,50500000
+2024,11,4,Buenavista Barranquilla,3,Moda y Calzado,36000000
+2024,11,4,Buenavista Barranquilla,9,Mascotas,26500000
+2024,11,4,Buenavista Barranquilla,5,Juguetería,21000000
+2024,11,5,Arboleda Pereira,5,Juguetería,42500000
+2024,11,5,Arboleda Pereira,6,Libros y Papelería,30500000
+2024,11,5,Arboleda Pereira,3,Moda y Calzado,27000000
+2024,11,5,Arboleda Pereira,8,Salud y Belleza,21000000
+2024,11,6,Bucaramanga Centro,6,Libros y Papelería,41000000
+2024,11,6,Bucaramanga Centro,8,Salud y Belleza,31500000
+2024,11,6,Bucaramanga Centro,2,Hogar y Cocina,24000000
+2024,11,6,Bucaramanga Centro,9,Mascotas,21000000
+2024,11,7,Viva Envigado,7,Automotriz,47000000
+2024,11,7,Viva Envigado,11,Herramientas,39000000
+2024,11,7,Viva Envigado,4,Deportes y Fitness,28500000
+2024,11,7,Viva Envigado,2,Hogar y Cocina,22500000
+2024,11,8,Llanogrande Rionegro,8,Salud y Belleza,40000000
+2024,11,8,Llanogrande Rionegro,3,Moda y Calzado,32000000
+2024,11,8,Llanogrande Rionegro,6,Libros y Papelería,20500000
+2024,11,8,Llanogrande Rionegro,9,Mascotas,17500000
+2024,11,9,Plaza de las Américas,9,Mascotas,44500000
+2024,11,9,Plaza de las Américas,5,Juguetería,36000000
+2024,11,9,Plaza de las Américas,8,Salud y Belleza,30000000
+2024,11,9,Plaza de las Américas,10,Alimentos y Bebidas,24000000
+2024,11,10,Mayorista Itagüí,10,Alimentos y Bebidas,67500000
+2024,11,10,Mayorista Itagüí,2,Hogar y Cocina,60500000
+2024,11,10,Mayorista Itagüí,7,Automotriz,44500000
+2024,11,10,Mayorista Itagüí,11,Herramientas,39000000
+2024,12,1,Éxito Poblado,1,Tecnología,68500000
+2024,12,1,Éxito Poblado,12,Electrodomésticos,60500000
+2024,12,1,Éxito Poblado,2,Hogar y Cocina,44500000
+2024,12,1,Éxito Poblado,8,Salud y Belleza,35500000
+2024,12,2,Unicentro Bogotá,1,Tecnología,67000000
+2024,12,2,Unicentro Bogotá,2,Hogar y Cocina,65000000
+2024,12,2,Unicentro Bogotá,12,Electrodomésticos,51000000
+2024,12,2,Unicentro Bogotá,3,Moda y Calzado,39500000
+2024,12,3,Chipichape Cali,3,Moda y Calzado,64500000
+2024,12,3,Chipichape Cali,8,Salud y Belleza,50000000
+2024,12,3,Chipichape Cali,5,Juguetería,39000000
+2024,12,3,Chipichape Cali,6,Libros y Papelería,29000000
+2024,12,4,Buenavista Barranquilla,4,Deportes y Fitness,56000000
+2024,12,4,Buenavista Barranquilla,3,Moda y Calzado,41000000
+2024,12,4,Buenavista Barranquilla,9,Mascotas,30000000
+2024,12,4,Buenavista Barranquilla,5,Juguetería,25500000
+2024,12,5,Arboleda Pereira,5,Juguetería,50500000
+2024,12,5,Arboleda Pereira,6,Libros y Papelería,34500000
+2024,12,5,Arboleda Pereira,3,Moda y Calzado,30000000
+2024,12,5,Arboleda Pereira,8,Salud y Belleza,24000000
+2024,12,6,Bucaramanga Centro,6,Libros y Papelería,45000000
+2024,12,6,Bucaramanga Centro,8,Salud y Belleza,34500000
+2024,12,6,Bucaramanga Centro,2,Hogar y Cocina,27500000
+2024,12,6,Bucaramanga Centro,9,Mascotas,23000000
+2024,12,7,Viva Envigado,7,Automotriz,53500000
+2024,12,7,Viva Envigado,11,Herramientas,43500000
+2024,12,7,Viva Envigado,4,Deportes y Fitness,31000000
+2024,12,7,Viva Envigado,2,Hogar y Cocina,27000000
+2024,12,8,Llanogrande Rionegro,8,Salud y Belleza,45000000
+2024,12,8,Llanogrande Rionegro,3,Moda y Calzado,34000000
+2024,12,8,Llanogrande Rionegro,6,Libros y Papelería,24000000
+2024,12,8,Llanogrande Rionegro,9,Mascotas,20000000
+2024,12,9,Plaza de las Américas,9,Mascotas,51500000
+2024,12,9,Plaza de las Américas,5,Juguetería,38000000
+2024,12,9,Plaza de las Américas,8,Salud y Belleza,33500000
+2024,12,9,Plaza de las Américas,10,Alimentos y Bebidas,30000000
+2024,12,10,Mayorista Itagüí,10,Alimentos y Bebidas,78500000
+2024,12,10,Mayorista Itagüí,2,Hogar y Cocina,67500000
+2024,12,10,Mayorista Itagüí,7,Automotriz,52500000
+2024,12,10,Mayorista Itagüí,11,Herramientas,44000000
+2025,1,1,Éxito Poblado,1,Tecnología,45500000
+2025,1,1,Éxito Poblado,12,Electrodomésticos,37000000
+2025,1,1,Éxito Poblado,2,Hogar y Cocina,29500000
+2025,1,1,Éxito Poblado,8,Salud y Belleza,23500000
+2025,1,2,Unicentro Bogotá,1,Tecnología,45500000
+2025,1,2,Unicentro Bogotá,2,Hogar y Cocina,46000000
+2025,1,2,Unicentro Bogotá,12,Electrodomésticos,34000000
+2025,1,2,Unicentro Bogotá,3,Moda y Calzado,27500000
+2025,1,3,Chipichape Cali,3,Moda y Calzado,42500000
+2025,1,3,Chipichape Cali,8,Salud y Belleza,34500000
+2025,1,3,Chipichape Cali,5,Juguetería,25000000
+2025,1,3,Chipichape Cali,6,Libros y Papelería,18500000
+2025,1,4,Buenavista Barranquilla,4,Deportes y Fitness,38000000
+2025,1,4,Buenavista Barranquilla,3,Moda y Calzado,27000000
+2025,1,4,Buenavista Barranquilla,9,Mascotas,20500000
+2025,1,4,Buenavista Barranquilla,5,Juguetería,17500000
+2025,1,5,Arboleda Pereira,5,Juguetería,33500000
+2025,1,5,Arboleda Pereira,6,Libros y Papelería,23000000
+2025,1,5,Arboleda Pereira,3,Moda y Calzado,20000000
+2025,1,5,Arboleda Pereira,8,Salud y Belleza,16000000
+2025,1,6,Bucaramanga Centro,6,Libros y Papelería,32500000
+2025,1,6,Bucaramanga Centro,8,Salud y Belleza,23000000
+2025,1,6,Bucaramanga Centro,2,Hogar y Cocina,19000000
+2025,1,6,Bucaramanga Centro,9,Mascotas,16000000
+2025,1,7,Viva Envigado,7,Automotriz,34500000
+2025,1,7,Viva Envigado,11,Herramientas,31500000
+2025,1,7,Viva Envigado,4,Deportes y Fitness,21000000
+2025,1,7,Viva Envigado,2,Hogar y Cocina,18000000
+2025,1,8,Llanogrande Rionegro,8,Salud y Belleza,29000000
+2025,1,8,Llanogrande Rionegro,3,Moda y Calzado,24000000
+2025,1,8,Llanogrande Rionegro,6,Libros y Papelería,16000000
+2025,1,8,Llanogrande Rionegro,9,Mascotas,13500000
+2025,1,9,Plaza de las Américas,9,Mascotas,36500000
+2025,1,9,Plaza de las Américas,5,Juguetería,26000000
+2025,1,9,Plaza de las Américas,8,Salud y Belleza,23500000
+2025,1,9,Plaza de las Américas,10,Alimentos y Bebidas,20000000
+2025,1,10,Mayorista Itagüí,10,Alimentos y Bebidas,52000000
+2025,1,10,Mayorista Itagüí,2,Hogar y Cocina,43500000
+2025,1,10,Mayorista Itagüí,7,Automotriz,33000000
+2025,1,10,Mayorista Itagüí,11,Herramientas,29500000
+2025,2,1,Éxito Poblado,1,Tecnología,47000000
+2025,2,1,Éxito Poblado,12,Electrodomésticos,37500000
+2025,2,1,Éxito Poblado,2,Hogar y Cocina,29500000
+2025,2,1,Éxito Poblado,8,Salud y Belleza,23000000
+2025,2,2,Unicentro Bogotá,1,Tecnología,43500000
+2025,2,2,Unicentro Bogotá,2,Hogar y Cocina,44000000
+2025,2,2,Unicentro Bogotá,12,Electrodomésticos,35000000
+2025,2,2,Unicentro Bogotá,3,Moda y Calzado,25500000
+2025,2,3,Chipichape Cali,3,Moda y Calzado,39500000
+2025,2,3,Chipichape Cali,8,Salud y Belleza,32000000
+2025,2,3,Chipichape Cali,5,Juguetería,24000000
+2025,2,3,Chipichape Cali,6,Libros y Papelería,19000000
+2025,2,4,Buenavista Barranquilla,4,Deportes y Fitness,37500000
+2025,2,4,Buenavista Barranquilla,3,Moda y Calzado,27000000
+2025,2,4,Buenavista Barranquilla,9,Mascotas,21000000
+2025,2,4,Buenavista Barranquilla,5,Juguetería,17000000
+2025,2,5,Arboleda Pereira,5,Juguetería,31500000
+2025,2,5,Arboleda Pereira,6,Libros y Papelería,23000000
+2025,2,5,Arboleda Pereira,3,Moda y Calzado,20000000
+2025,2,5,Arboleda Pereira,8,Salud y Belleza,16000000
+2025,2,6,Bucaramanga Centro,6,Libros y Papelería,32000000
+2025,2,6,Bucaramanga Centro,8,Salud y Belleza,24500000
+2025,2,6,Bucaramanga Centro,2,Hogar y Cocina,18000000
+2025,2,6,Bucaramanga Centro,9,Mascotas,15000000
+2025,2,7,Viva Envigado,7,Automotriz,35000000
+2025,2,7,Viva Envigado,11,Herramientas,30500000
+2025,2,7,Viva Envigado,4,Deportes y Fitness,22000000
+2025,2,7,Viva Envigado,2,Hogar y Cocina,17500000
+2025,2,8,Llanogrande Rionegro,8,Salud y Belleza,30000000
+2025,2,8,Llanogrande Rionegro,3,Moda y Calzado,22500000
+2025,2,8,Llanogrande Rionegro,6,Libros y Papelería,16500000
+2025,2,8,Llanogrande Rionegro,9,Mascotas,13500000
+2025,2,9,Plaza de las Américas,9,Mascotas,33000000
+2025,2,9,Plaza de las Américas,5,Juguetería,26500000
+2025,2,9,Plaza de las Américas,8,Salud y Belleza,23500000
+2025,2,9,Plaza de las Américas,10,Alimentos y Bebidas,19000000
+2025,2,10,Mayorista Itagüí,10,Alimentos y Bebidas,50000000
+2025,2,10,Mayorista Itagüí,2,Hogar y Cocina,46000000
+2025,2,10,Mayorista Itagüí,7,Automotriz,34500000
+2025,2,10,Mayorista Itagüí,11,Herramientas,28000000
+2025,3,1,Éxito Poblado,1,Tecnología,50000000
+2025,3,1,Éxito Poblado,12,Electrodomésticos,42500000
+2025,3,1,Éxito Poblado,2,Hogar y Cocina,33000000
+2025,3,1,Éxito Poblado,8,Salud y Belleza,25000000
+2025,3,2,Unicentro Bogotá,1,Tecnología,50000000
+2025,3,2,Unicentro Bogotá,2,Hogar y Cocina,49500000
+2025,3,2,Unicentro Bogotá,12,Electrodomésticos,36000000
+2025,3,2,Unicentro Bogotá,3,Moda y Calzado,31000000
+2025,3,3,Chipichape Cali,3,Moda y Calzado,47500000
+2025,3,3,Chipichape Cali,8,Salud y Belleza,38500000
+2025,3,3,Chipichape Cali,5,Juguetería,28500000
+2025,3,3,Chipichape Cali,6,Libros y Papelería,21000000
+2025,3,4,Buenavista Barranquilla,4,Deportes y Fitness,43000000
+2025,3,4,Buenavista Barranquilla,3,Moda y Calzado,33000000
+2025,3,4,Buenavista Barranquilla,9,Mascotas,22500000
+2025,3,4,Buenavista Barranquilla,5,Juguetería,19500000
+2025,3,5,Arboleda Pereira,5,Juguetería,37000000
+2025,3,5,Arboleda Pereira,6,Libros y Papelería,26000000
+2025,3,5,Arboleda Pereira,3,Moda y Calzado,22000000
+2025,3,5,Arboleda Pereira,8,Salud y Belleza,19000000
+2025,3,6,Bucaramanga Centro,6,Libros y Papelería,34000000
+2025,3,6,Bucaramanga Centro,8,Salud y Belleza,27000000
+2025,3,6,Bucaramanga Centro,2,Hogar y Cocina,21500000
+2025,3,6,Bucaramanga Centro,9,Mascotas,17000000
+2025,3,7,Viva Envigado,7,Automotriz,41500000
+2025,3,7,Viva Envigado,11,Herramientas,33000000
+2025,3,7,Viva Envigado,4,Deportes y Fitness,24000000
+2025,3,7,Viva Envigado,2,Hogar y Cocina,20000000
+2025,3,8,Llanogrande Rionegro,8,Salud y Belleza,32500000
+2025,3,8,Llanogrande Rionegro,3,Moda y Calzado,25000000
+2025,3,8,Llanogrande Rionegro,6,Libros y Papelería,19000000
+2025,3,8,Llanogrande Rionegro,9,Mascotas,14500000
+2025,3,9,Plaza de las Américas,9,Mascotas,38000000
+2025,3,9,Plaza de las Américas,5,Juguetería,30000000
+2025,3,9,Plaza de las Américas,8,Salud y Belleza,25000000
+2025,3,9,Plaza de las Américas,10,Alimentos y Bebidas,22000000
+2025,3,10,Mayorista Itagüí,10,Alimentos y Bebidas,59500000
+2025,3,10,Mayorista Itagüí,2,Hogar y Cocina,48500000
+2025,3,10,Mayorista Itagüí,7,Automotriz,36000000
+2025,3,10,Mayorista Itagüí,11,Herramientas,33500000
+2025,4,1,Éxito Poblado,1,Tecnología,47500000
+2025,4,1,Éxito Poblado,12,Electrodomésticos,43000000
+2025,4,1,Éxito Poblado,2,Hogar y Cocina,32000000
+2025,4,1,Éxito Poblado,8,Salud y Belleza,25500000
+2025,4,2,Unicentro Bogotá,1,Tecnología,48000000
+2025,4,2,Unicentro Bogotá,2,Hogar y Cocina,47500000
+2025,4,2,Unicentro Bogotá,12,Electrodomésticos,36500000
+2025,4,2,Unicentro Bogotá,3,Moda y Calzado,29500000
+2025,4,3,Chipichape Cali,3,Moda y Calzado,44000000
+2025,4,3,Chipichape Cali,8,Salud y Belleza,35500000
+2025,4,3,Chipichape Cali,5,Juguetería,28000000
+2025,4,3,Chipichape Cali,6,Libros y Papelería,20000000
+2025,4,4,Buenavista Barranquilla,4,Deportes y Fitness,41000000
+2025,4,4,Buenavista Barranquilla,3,Moda y Calzado,30500000
+2025,4,4,Buenavista Barranquilla,9,Mascotas,22500000
+2025,4,4,Buenavista Barranquilla,5,Juguetería,18500000
+2025,4,5,Arboleda Pereira,5,Juguetería,37000000
+2025,4,5,Arboleda Pereira,6,Libros y Papelería,25000000
+2025,4,5,Arboleda Pereira,3,Moda y Calzado,22000000
+2025,4,5,Arboleda Pereira,8,Salud y Belleza,17500000
+2025,4,6,Bucaramanga Centro,6,Libros y Papelería,33500000
+2025,4,6,Bucaramanga Centro,8,Salud y Belleza,24500000
+2025,4,6,Bucaramanga Centro,2,Hogar y Cocina,20000000
+2025,4,6,Bucaramanga Centro,9,Mascotas,16500000
+2025,4,7,Viva Envigado,7,Automotriz,39000000
+2025,4,7,Viva Envigado,11,Herramientas,34000000
+2025,4,7,Viva Envigado,4,Deportes y Fitness,22500000
+2025,4,7,Viva Envigado,2,Hogar y Cocina,19000000
+2025,4,8,Llanogrande Rionegro,8,Salud y Belleza,32500000
+2025,4,8,Llanogrande Rionegro,3,Moda y Calzado,26500000
+2025,4,8,Llanogrande Rionegro,6,Libros y Papelería,18500000
+2025,4,8,Llanogrande Rionegro,9,Mascotas,14500000
+2025,4,9,Plaza de las Américas,9,Mascotas,37000000
+2025,4,9,Plaza de las Américas,5,Juguetería,27500000
+2025,4,9,Plaza de las Américas,8,Salud y Belleza,24000000
+2025,4,9,Plaza de las Américas,10,Alimentos y Bebidas,20500000
+2025,4,10,Mayorista Itagüí,10,Alimentos y Bebidas,55000000
+2025,4,10,Mayorista Itagüí,2,Hogar y Cocina,46000000
+2025,4,10,Mayorista Itagüí,7,Automotriz,37000000
+2025,4,10,Mayorista Itagüí,11,Herramientas,30500000
+2025,5,1,Éxito Poblado,1,Tecnología,54500000
+2025,5,1,Éxito Poblado,12,Electrodomésticos,44500000
+2025,5,1,Éxito Poblado,2,Hogar y Cocina,34500000
+2025,5,1,Éxito Poblado,8,Salud y Belleza,25000000
+2025,5,2,Unicentro Bogotá,1,Tecnología,51500000
+2025,5,2,Unicentro Bogotá,2,Hogar y Cocina,49500000
+2025,5,2,Unicentro Bogotá,12,Electrodomésticos,40000000
+2025,5,2,Unicentro Bogotá,3,Moda y Calzado,30500000
+2025,5,3,Chipichape Cali,3,Moda y Calzado,48000000
+2025,5,3,Chipichape Cali,8,Salud y Belleza,38500000
+2025,5,3,Chipichape Cali,5,Juguetería,28000000
+2025,5,3,Chipichape Cali,6,Libros y Papelería,20500000
+2025,5,4,Buenavista Barranquilla,4,Deportes y Fitness,45000000
+2025,5,4,Buenavista Barranquilla,3,Moda y Calzado,32500000
+2025,5,4,Buenavista Barranquilla,9,Mascotas,24500000
+2025,5,4,Buenavista Barranquilla,5,Juguetería,19000000
+2025,5,5,Arboleda Pereira,5,Juguetería,36500000
+2025,5,5,Arboleda Pereira,6,Libros y Papelería,27000000
+2025,5,5,Arboleda Pereira,3,Moda y Calzado,22000000
+2025,5,5,Arboleda Pereira,8,Salud y Belleza,18500000
+2025,5,6,Bucaramanga Centro,6,Libros y Papelería,36500000
+2025,5,6,Bucaramanga Centro,8,Salud y Belleza,26500000
+2025,5,6,Bucaramanga Centro,2,Hogar y Cocina,23000000
+2025,5,6,Bucaramanga Centro,9,Mascotas,17500000
+2025,5,7,Viva Envigado,7,Automotriz,42500000
+2025,5,7,Viva Envigado,11,Herramientas,35500000
+2025,5,7,Viva Envigado,4,Deportes y Fitness,25500000
+2025,5,7,Viva Envigado,2,Hogar y Cocina,20000000
+2025,5,8,Llanogrande Rionegro,8,Salud y Belleza,34000000
+2025,5,8,Llanogrande Rionegro,3,Moda y Calzado,27000000
+2025,5,8,Llanogrande Rionegro,6,Libros y Papelería,18500000
+2025,5,8,Llanogrande Rionegro,9,Mascotas,16000000
+2025,5,9,Plaza de las Américas,9,Mascotas,42000000
+2025,5,9,Plaza de las Américas,5,Juguetería,29500000
+2025,5,9,Plaza de las Américas,8,Salud y Belleza,26500000
+2025,5,9,Plaza de las Américas,10,Alimentos y Bebidas,22500000
+2025,5,10,Mayorista Itagüí,10,Alimentos y Bebidas,61500000
+2025,5,10,Mayorista Itagüí,2,Hogar y Cocina,53500000
+2025,5,10,Mayorista Itagüí,7,Automotriz,38000000
+2025,5,10,Mayorista Itagüí,11,Herramientas,32000000
+2025,6,1,Éxito Poblado,1,Tecnología,54000000
+2025,6,1,Éxito Poblado,12,Electrodomésticos,44000000
+2025,6,1,Éxito Poblado,2,Hogar y Cocina,33500000
+2025,6,1,Éxito Poblado,8,Salud y Belleza,25500000
+2025,6,2,Unicentro Bogotá,1,Tecnología,48500000
+2025,6,2,Unicentro Bogotá,2,Hogar y Cocina,50500000
+2025,6,2,Unicentro Bogotá,12,Electrodomésticos,40000000
+2025,6,2,Unicentro Bogotá,3,Moda y Calzado,30500000
+2025,6,3,Chipichape Cali,3,Moda y Calzado,48000000
+2025,6,3,Chipichape Cali,8,Salud y Belleza,40000000
+2025,6,3,Chipichape Cali,5,Juguetería,30000000
+2025,6,3,Chipichape Cali,6,Libros y Papelería,22000000
+2025,6,4,Buenavista Barranquilla,4,Deportes y Fitness,45000000
+2025,6,4,Buenavista Barranquilla,3,Moda y Calzado,34500000
+2025,6,4,Buenavista Barranquilla,9,Mascotas,25000000
+2025,6,4,Buenavista Barranquilla,5,Juguetería,20000000
+2025,6,5,Arboleda Pereira,5,Juguetería,39500000
+2025,6,5,Arboleda Pereira,6,Libros y Papelería,28500000
+2025,6,5,Arboleda Pereira,3,Moda y Calzado,23000000
+2025,6,5,Arboleda Pereira,8,Salud y Belleza,19500000
+2025,6,6,Bucaramanga Centro,6,Libros y Papelería,37500000
+2025,6,6,Bucaramanga Centro,8,Salud y Belleza,29000000
+2025,6,6,Bucaramanga Centro,2,Hogar y Cocina,23000000
+2025,6,6,Bucaramanga Centro,9,Mascotas,17500000
+2025,6,7,Viva Envigado,7,Automotriz,40500000
+2025,6,7,Viva Envigado,11,Herramientas,35000000
+2025,6,7,Viva Envigado,4,Deportes y Fitness,26000000
+2025,6,7,Viva Envigado,2,Hogar y Cocina,21000000
+2025,6,8,Llanogrande Rionegro,8,Salud y Belleza,34000000
+2025,6,8,Llanogrande Rionegro,3,Moda y Calzado,27000000
+2025,6,8,Llanogrande Rionegro,6,Libros y Papelería,19500000
+2025,6,8,Llanogrande Rionegro,9,Mascotas,16000000
+2025,6,9,Plaza de las Américas,9,Mascotas,43000000
+2025,6,9,Plaza de las Américas,5,Juguetería,31000000
+2025,6,9,Plaza de las Américas,8,Salud y Belleza,26500000
+2025,6,9,Plaza de las Américas,10,Alimentos y Bebidas,21500000
+2025,6,10,Mayorista Itagüí,10,Alimentos y Bebidas,58500000
+2025,6,10,Mayorista Itagüí,2,Hogar y Cocina,52000000
+2025,6,10,Mayorista Itagüí,7,Automotriz,39500000
+2025,6,10,Mayorista Itagüí,11,Herramientas,33000000
+2025,7,1,Éxito Poblado,1,Tecnología,52000000
+2025,7,1,Éxito Poblado,12,Electrodomésticos,48500000
+2025,7,1,Éxito Poblado,2,Hogar y Cocina,36500000
+2025,7,1,Éxito Poblado,8,Salud y Belleza,27500000
+2025,7,2,Unicentro Bogotá,1,Tecnología,54000000
+2025,7,2,Unicentro Bogotá,2,Hogar y Cocina,54500000
+2025,7,2,Unicentro Bogotá,12,Electrodomésticos,41000000
+2025,7,2,Unicentro Bogotá,3,Moda y Calzado,31000000
+2025,7,3,Chipichape Cali,3,Moda y Calzado,48000000
+2025,7,3,Chipichape Cali,8,Salud y Belleza,41500000
+2025,7,3,Chipichape Cali,5,Juguetería,30000000
+2025,7,3,Chipichape Cali,6,Libros y Papelería,23000000
+2025,7,4,Buenavista Barranquilla,4,Deportes y Fitness,47000000
+2025,7,4,Buenavista Barranquilla,3,Moda y Calzado,32500000
+2025,7,4,Buenavista Barranquilla,9,Mascotas,25000000
+2025,7,4,Buenavista Barranquilla,5,Juguetería,20500000
+2025,7,5,Arboleda Pereira,5,Juguetería,40000000
+2025,7,5,Arboleda Pereira,6,Libros y Papelería,26500000
+2025,7,5,Arboleda Pereira,3,Moda y Calzado,23500000
+2025,7,5,Arboleda Pereira,8,Salud y Belleza,19500000
+2025,7,6,Bucaramanga Centro,6,Libros y Papelería,38500000
+2025,7,6,Bucaramanga Centro,8,Salud y Belleza,29500000
+2025,7,6,Bucaramanga Centro,2,Hogar y Cocina,22000000
+2025,7,6,Bucaramanga Centro,9,Mascotas,19000000
+2025,7,7,Viva Envigado,7,Automotriz,42000000
+2025,7,7,Viva Envigado,11,Herramientas,38000000
+2025,7,7,Viva Envigado,4,Deportes y Fitness,26500000
+2025,7,7,Viva Envigado,2,Hogar y Cocina,21500000
+2025,7,8,Llanogrande Rionegro,8,Salud y Belleza,35500000
+2025,7,8,Llanogrande Rionegro,3,Moda y Calzado,28000000
+2025,7,8,Llanogrande Rionegro,6,Libros y Papelería,19000000
+2025,7,8,Llanogrande Rionegro,9,Mascotas,17000000
+2025,7,9,Plaza de las Américas,9,Mascotas,41500000
+2025,7,9,Plaza de las Américas,5,Juguetería,31500000
+2025,7,9,Plaza de las Américas,8,Salud y Belleza,28500000
+2025,7,9,Plaza de las Américas,10,Alimentos y Bebidas,23500000
+2025,7,10,Mayorista Itagüí,10,Alimentos y Bebidas,63000000
+2025,7,10,Mayorista Itagüí,2,Hogar y Cocina,53000000
+2025,7,10,Mayorista Itagüí,7,Automotriz,39500000
+2025,7,10,Mayorista Itagüí,11,Herramientas,34000000
+2025,8,1,Éxito Poblado,1,Tecnología,55500000
+2025,8,1,Éxito Poblado,12,Electrodomésticos,46500000
+2025,8,1,Éxito Poblado,2,Hogar y Cocina,36000000
+2025,8,1,Éxito Poblado,8,Salud y Belleza,26000000
+2025,8,2,Unicentro Bogotá,1,Tecnología,51500000
+2025,8,2,Unicentro Bogotá,2,Hogar y Cocina,53500000
+2025,8,2,Unicentro Bogotá,12,Electrodomésticos,39500000
+2025,8,2,Unicentro Bogotá,3,Moda y Calzado,32000000
+2025,8,3,Chipichape Cali,3,Moda y Calzado,48000000
+2025,8,3,Chipichape Cali,8,Salud y Belleza,41500000
+2025,8,3,Chipichape Cali,5,Juguetería,30000000
+2025,8,3,Chipichape Cali,6,Libros y Papelería,22000000
+2025,8,4,Buenavista Barranquilla,4,Deportes y Fitness,43000000
+2025,8,4,Buenavista Barranquilla,3,Moda y Calzado,33500000
+2025,8,4,Buenavista Barranquilla,9,Mascotas,24500000
+2025,8,4,Buenavista Barranquilla,5,Juguetería,19000000
+2025,8,5,Arboleda Pereira,5,Juguetería,41500000
+2025,8,5,Arboleda Pereira,6,Libros y Papelería,28500000
+2025,8,5,Arboleda Pereira,3,Moda y Calzado,23500000
+2025,8,5,Arboleda Pereira,8,Salud y Belleza,19000000
+2025,8,6,Bucaramanga Centro,6,Libros y Papelería,38500000
+2025,8,6,Bucaramanga Centro,8,Salud y Belleza,28000000
+2025,8,6,Bucaramanga Centro,2,Hogar y Cocina,23000000
+2025,8,6,Bucaramanga Centro,9,Mascotas,18500000
+2025,8,7,Viva Envigado,7,Automotriz,41500000
+2025,8,7,Viva Envigado,11,Herramientas,37500000
+2025,8,7,Viva Envigado,4,Deportes y Fitness,26500000
+2025,8,7,Viva Envigado,2,Hogar y Cocina,20500000
+2025,8,8,Llanogrande Rionegro,8,Salud y Belleza,35500000
+2025,8,8,Llanogrande Rionegro,3,Moda y Calzado,28000000
+2025,8,8,Llanogrande Rionegro,6,Libros y Papelería,20000000
+2025,8,8,Llanogrande Rionegro,9,Mascotas,16000000
+2025,8,9,Plaza de las Américas,9,Mascotas,43000000
+2025,8,9,Plaza de las Américas,5,Juguetería,32000000
+2025,8,9,Plaza de las Américas,8,Salud y Belleza,26500000
+2025,8,9,Plaza de las Américas,10,Alimentos y Bebidas,23500000
+2025,8,10,Mayorista Itagüí,10,Alimentos y Bebidas,61500000
+2025,8,10,Mayorista Itagüí,2,Hogar y Cocina,55000000
+2025,8,10,Mayorista Itagüí,7,Automotriz,40500000
+2025,8,10,Mayorista Itagüí,11,Herramientas,35500000
+2025,9,1,Éxito Poblado,1,Tecnología,54000000
+2025,9,1,Éxito Poblado,12,Electrodomésticos,46000000
+2025,9,1,Éxito Poblado,2,Hogar y Cocina,36000000
+2025,9,1,Éxito Poblado,8,Salud y Belleza,29000000
+2025,9,2,Unicentro Bogotá,1,Tecnología,52500000
+2025,9,2,Unicentro Bogotá,2,Hogar y Cocina,50500000
+2025,9,2,Unicentro Bogotá,12,Electrodomésticos,41000000
+2025,9,2,Unicentro Bogotá,3,Moda y Calzado,31500000
+2025,9,3,Chipichape Cali,3,Moda y Calzado,51000000
+2025,9,3,Chipichape Cali,8,Salud y Belleza,41000000
+2025,9,3,Chipichape Cali,5,Juguetería,30500000
+2025,9,3,Chipichape Cali,6,Libros y Papelería,22500000
+2025,9,4,Buenavista Barranquilla,4,Deportes y Fitness,44000000
+2025,9,4,Buenavista Barranquilla,3,Moda y Calzado,35000000
+2025,9,4,Buenavista Barranquilla,9,Mascotas,25000000
+2025,9,4,Buenavista Barranquilla,5,Juguetería,20000000
+2025,9,5,Arboleda Pereira,5,Juguetería,41500000
+2025,9,5,Arboleda Pereira,6,Libros y Papelería,27000000
+2025,9,5,Arboleda Pereira,3,Moda y Calzado,24500000
+2025,9,5,Arboleda Pereira,8,Salud y Belleza,20500000
+2025,9,6,Bucaramanga Centro,6,Libros y Papelería,39500000
+2025,9,6,Bucaramanga Centro,8,Salud y Belleza,28500000
+2025,9,6,Bucaramanga Centro,2,Hogar y Cocina,23000000
+2025,9,6,Bucaramanga Centro,9,Mascotas,19500000
+2025,9,7,Viva Envigado,7,Automotriz,45500000
+2025,9,7,Viva Envigado,11,Herramientas,37000000
+2025,9,7,Viva Envigado,4,Deportes y Fitness,25000000
+2025,9,7,Viva Envigado,2,Hogar y Cocina,21500000
+2025,9,8,Llanogrande Rionegro,8,Salud y Belleza,36500000
+2025,9,8,Llanogrande Rionegro,3,Moda y Calzado,30000000
+2025,9,8,Llanogrande Rionegro,6,Libros y Papelería,20500000
+2025,9,8,Llanogrande Rionegro,9,Mascotas,16000000
+2025,9,9,Plaza de las Américas,9,Mascotas,42500000
+2025,9,9,Plaza de las Américas,5,Juguetería,31500000
+2025,9,9,Plaza de las Américas,8,Salud y Belleza,28000000
+2025,9,9,Plaza de las Américas,10,Alimentos y Bebidas,23000000
+2025,9,10,Mayorista Itagüí,10,Alimentos y Bebidas,64500000
+2025,9,10,Mayorista Itagüí,2,Hogar y Cocina,52000000
+2025,9,10,Mayorista Itagüí,7,Automotriz,41000000
+2025,9,10,Mayorista Itagüí,11,Herramientas,36500000
+2025,10,1,Éxito Poblado,1,Tecnología,56500000
+2025,10,1,Éxito Poblado,12,Electrodomésticos,49500000
+2025,10,1,Éxito Poblado,2,Hogar y Cocina,38000000
+2025,10,1,Éxito Poblado,8,Salud y Belleza,29500000
+2025,10,2,Unicentro Bogotá,1,Tecnología,56500000
+2025,10,2,Unicentro Bogotá,2,Hogar y Cocina,56500000
+2025,10,2,Unicentro Bogotá,12,Electrodomésticos,42000000
+2025,10,2,Unicentro Bogotá,3,Moda y Calzado,32500000
+2025,10,3,Chipichape Cali,3,Moda y Calzado,54000000
+2025,10,3,Chipichape Cali,8,Salud y Belleza,43500000
+2025,10,3,Chipichape Cali,5,Juguetería,33000000
+2025,10,3,Chipichape Cali,6,Libros y Papelería,22500000
+2025,10,4,Buenavista Barranquilla,4,Deportes y Fitness,45500000
+2025,10,4,Buenavista Barranquilla,3,Moda y Calzado,36000000
+2025,10,4,Buenavista Barranquilla,9,Mascotas,27000000
+2025,10,4,Buenavista Barranquilla,5,Juguetería,22500000
+2025,10,5,Arboleda Pereira,5,Juguetería,43000000
+2025,10,5,Arboleda Pereira,6,Libros y Papelería,29000000
+2025,10,5,Arboleda Pereira,3,Moda y Calzado,24000000
+2025,10,5,Arboleda Pereira,8,Salud y Belleza,21000000
+2025,10,6,Bucaramanga Centro,6,Libros y Papelería,41000000
+2025,10,6,Bucaramanga Centro,8,Salud y Belleza,29500000
+2025,10,6,Bucaramanga Centro,2,Hogar y Cocina,24500000
+2025,10,6,Bucaramanga Centro,9,Mascotas,20500000
+2025,10,7,Viva Envigado,7,Automotriz,43000000
+2025,10,7,Viva Envigado,11,Herramientas,39500000
+2025,10,7,Viva Envigado,4,Deportes y Fitness,26500000
+2025,10,7,Viva Envigado,2,Hogar y Cocina,22500000
+2025,10,8,Llanogrande Rionegro,8,Salud y Belleza,36000000
+2025,10,8,Llanogrande Rionegro,3,Moda y Calzado,30000000
+2025,10,8,Llanogrande Rionegro,6,Libros y Papelería,20500000
+2025,10,8,Llanogrande Rionegro,9,Mascotas,17500000
+2025,10,9,Plaza de las Américas,9,Mascotas,42500000
+2025,10,9,Plaza de las Américas,5,Juguetería,31500000
+2025,10,9,Plaza de las Américas,8,Salud y Belleza,29500000
+2025,10,9,Plaza de las Américas,10,Alimentos y Bebidas,24500000
+2025,10,10,Mayorista Itagüí,10,Alimentos y Bebidas,64500000
+2025,10,10,Mayorista Itagüí,2,Hogar y Cocina,58500000
+2025,10,10,Mayorista Itagüí,7,Automotriz,41500000
+2025,10,10,Mayorista Itagüí,11,Herramientas,36000000
+2025,11,1,Éxito Poblado,1,Tecnología,63000000
+2025,11,1,Éxito Poblado,12,Electrodomésticos,53500000
+2025,11,1,Éxito Poblado,2,Hogar y Cocina,40000000
+2025,11,1,Éxito Poblado,8,Salud y Belleza,33500000
+2025,11,2,Unicentro Bogotá,1,Tecnología,64000000
+2025,11,2,Unicentro Bogotá,2,Hogar y Cocina,62500000
+2025,11,2,Unicentro Bogotá,12,Electrodomésticos,46000000
+2025,11,2,Unicentro Bogotá,3,Moda y Calzado,37500000
+2025,11,3,Chipichape Cali,3,Moda y Calzado,58500000
+2025,11,3,Chipichape Cali,8,Salud y Belleza,48000000
+2025,11,3,Chipichape Cali,5,Juguetería,36500000
+2025,11,3,Chipichape Cali,6,Libros y Papelería,26500000
+2025,11,4,Buenavista Barranquilla,4,Deportes y Fitness,52000000
+2025,11,4,Buenavista Barranquilla,3,Moda y Calzado,41500000
+2025,11,4,Buenavista Barranquilla,9,Mascotas,28500000
+2025,11,4,Buenavista Barranquilla,5,Juguetería,24000000
+2025,11,5,Arboleda Pereira,5,Juguetería,47000000
+2025,11,5,Arboleda Pereira,6,Libros y Papelería,32000000
+2025,11,5,Arboleda Pereira,3,Moda y Calzado,28500000
+2025,11,5,Arboleda Pereira,8,Salud y Belleza,24000000
+2025,11,6,Bucaramanga Centro,6,Libros y Papelería,47000000
+2025,11,6,Bucaramanga Centro,8,Salud y Belleza,33000000
+2025,11,6,Bucaramanga Centro,2,Hogar y Cocina,28000000
+2025,11,6,Bucaramanga Centro,9,Mascotas,22500000
+2025,11,7,Viva Envigado,7,Automotriz,50000000
+2025,11,7,Viva Envigado,11,Herramientas,43500000
+2025,11,7,Viva Envigado,4,Deportes y Fitness,31000000
+2025,11,7,Viva Envigado,2,Hogar y Cocina,26000000
+2025,11,8,Llanogrande Rionegro,8,Salud y Belleza,40500000
+2025,11,8,Llanogrande Rionegro,3,Moda y Calzado,34000000
+2025,11,8,Llanogrande Rionegro,6,Libros y Papelería,23000000
+2025,11,8,Llanogrande Rionegro,9,Mascotas,20000000
+2025,11,9,Plaza de las Américas,9,Mascotas,48500000
+2025,11,9,Plaza de las Américas,5,Juguetería,38500000
+2025,11,9,Plaza de las Américas,8,Salud y Belleza,32500000
+2025,11,9,Plaza de las Américas,10,Alimentos y Bebidas,27000000
+2025,11,10,Mayorista Itagüí,10,Alimentos y Bebidas,75500000
+2025,11,10,Mayorista Itagüí,2,Hogar y Cocina,64000000
+2025,11,10,Mayorista Itagüí,7,Automotriz,49500000
+2025,11,10,Mayorista Itagüí,11,Herramientas,42000000
+2025,12,1,Éxito Poblado,1,Tecnología,74000000
+2025,12,1,Éxito Poblado,12,Electrodomésticos,64000000
+2025,12,1,Éxito Poblado,2,Hogar y Cocina,48000000
+2025,12,1,Éxito Poblado,8,Salud y Belleza,38000000
+2025,12,2,Unicentro Bogotá,1,Tecnología,70500000
+2025,12,2,Unicentro Bogotá,2,Hogar y Cocina,68000000
+2025,12,2,Unicentro Bogotá,12,Electrodomésticos,53500000
+2025,12,2,Unicentro Bogotá,3,Moda y Calzado,43000000
+2025,12,3,Chipichape Cali,3,Moda y Calzado,69000000
+2025,12,3,Chipichape Cali,8,Salud y Belleza,51500000
+2025,12,3,Chipichape Cali,5,Juguetería,39500000
+2025,12,3,Chipichape Cali,6,Libros y Papelería,31000000
+2025,12,4,Buenavista Barranquilla,4,Deportes y Fitness,58500000
+2025,12,4,Buenavista Barranquilla,3,Moda y Calzado,43500000
+2025,12,4,Buenavista Barranquilla,9,Mascotas,33500000
+2025,12,4,Buenavista Barranquilla,5,Juguetería,28500000
+2025,12,5,Arboleda Pereira,5,Juguetería,53500000
+2025,12,5,Arboleda Pereira,6,Libros y Papelería,39000000
+2025,12,5,Arboleda Pereira,3,Moda y Calzado,33000000
+2025,12,5,Arboleda Pereira,8,Salud y Belleza,26000000
+2025,12,6,Bucaramanga Centro,6,Libros y Papelería,52000000
+2025,12,6,Bucaramanga Centro,8,Salud y Belleza,38000000
+2025,12,6,Bucaramanga Centro,2,Hogar y Cocina,31500000
+2025,12,6,Bucaramanga Centro,9,Mascotas,26000000
+2025,12,7,Viva Envigado,7,Automotriz,56500000
+2025,12,7,Viva Envigado,11,Herramientas,47000000
+2025,12,7,Viva Envigado,4,Deportes y Fitness,36000000
+2025,12,7,Viva Envigado,2,Hogar y Cocina,27500000
+2025,12,8,Llanogrande Rionegro,8,Salud y Belleza,50000000
+2025,12,8,Llanogrande Rionegro,3,Moda y Calzado,39500000
+2025,12,8,Llanogrande Rionegro,6,Libros y Papelería,27000000
+2025,12,8,Llanogrande Rionegro,9,Mascotas,22500000
+2025,12,9,Plaza de las Américas,9,Mascotas,59000000
+2025,12,9,Plaza de las Américas,5,Juguetería,43500000
+2025,12,9,Plaza de las Américas,8,Salud y Belleza,36000000
+2025,12,9,Plaza de las Américas,10,Alimentos y Bebidas,32000000
+2025,12,10,Mayorista Itagüí,10,Alimentos y Bebidas,80000000
+2025,12,10,Mayorista Itagüí,2,Hogar y Cocina,72000000
+2025,12,10,Mayorista Itagüí,7,Automotriz,54500000
+2025,12,10,Mayorista Itagüí,11,Herramientas,47000000

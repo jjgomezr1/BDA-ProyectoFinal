@@ -1,8 +1,7 @@
 /*******************************************************************************
-   PROYECTO 3 - SISTEMAS DE INFORMACIÓN (SI3009)
+   PROYECTO 3 - BASES DE DATOS AVANZADAS
    SCRIPT: Creación de Base de Datos de Staging
    Base de datos: BI_Staging
-   Persona 2 — Staging, DW & ETL
 
    PROPÓSITO:
    Zona intermedia entre el OLTP (BI_OLTP) y el Data Warehouse (BI_DW).

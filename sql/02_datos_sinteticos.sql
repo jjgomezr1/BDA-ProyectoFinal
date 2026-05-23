@@ -1,5 +1,5 @@
 /*******************************************************************************
-   PROYECTO 3 - SISTEMAS DE INFORMACIÓN (SI3009)
+   PROYECTO 3 - BASES DE DATOS AVANZADAS
    SCRIPT DE POBLADO DE DATOS SINTÉTICOS LIMPIOS - BASE DE DATOS: BI_OLTP
    
    Cumple con:

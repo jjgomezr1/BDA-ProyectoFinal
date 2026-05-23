@@ -1,8 +1,7 @@
 /*******************************************************************************
-   PROYECTO 3 - SISTEMAS DE INFORMACIÓN (SI3009)
+   PROYECTO 3 - BASES DE DATOS AVANZADAS
    SCRIPT: Creación del Data Warehouse dimensional
    Base de datos: BI_DW
-   Persona 2 — Staging, DW & ETL
 
    MODELO: Esquema estrella (Star Schema)
    - 9 Dimensiones: DimFecha, DimCliente, DimProducto, DimTienda,

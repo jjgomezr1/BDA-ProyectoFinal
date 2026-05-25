@@ -528,6 +528,10 @@ BEGIN
                 WHEN 'Herramientas'       THEN 'Herramientas'
                 WHEN 'Mascotas'           THEN 'Mascotas'
                 WHEN 'Alimentos'          THEN 'Alimentos y Bebidas'
+                WHEN 'Belleza y Cuidado'  THEN 'Salud y Belleza'
+                WHEN 'Ferretería'         THEN 'Herramientas'
+                WHEN 'Hogar y Decoración' THEN 'Hogar y Cocina'
+                WHEN 'Librería y Papelería' THEN 'Libros y Papelería'
                 ELSE M.NombreCategoria_CSV   -- Si ya coincide, pasa directo
              END;
 

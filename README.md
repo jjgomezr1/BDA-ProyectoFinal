@@ -1,6 +1,11 @@
 # Proyecto 3 - Bases de Datos Avanzadas
 **Proceso de Ejecución del ETL y Data Warehouse**
 
+**Integrantes del grupo:**
+- Samuel Herrera Hoyos
+- Juan José Gómez Ramirez
+- Mateo Villada Higuita
+
 Este repositorio contiene los scripts necesarios para crear y poblar el Data Warehouse a partir de la base de datos transaccional (OLTP) y archivos CSV externos.
 
 Para que el proyecto se ejecute correctamente en una nueva máquina, sigue **estrictamente** estos pasos en el orden indicado:
